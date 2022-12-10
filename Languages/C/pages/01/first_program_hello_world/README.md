@@ -7,7 +7,7 @@ int main() {
   return 0;
 }
 </code></pre>
-<p>In this case this return 0 , because 0 is a integer (has the type int).</p>
+<p>In this case this return 0, because 0 is a integer (has the type int).</p>
 <h2>Printf function</h2>
 <h3>To print something, lets use the printf function, which prints something.</h3>
 <pre><code>#include &lt;stdio.h&gt;
