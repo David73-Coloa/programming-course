@@ -4,7 +4,6 @@
 <p>Also, do not forget to include the stdio.h library, which contains function which are needed to be compiler</p>
 ```language
 
-```
 ```language
 
 #include <stdio.h> 
