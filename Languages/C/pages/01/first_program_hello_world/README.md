@@ -18,7 +18,7 @@ int main() {
 </code></pre>
 <p>Remember to use the ; after do something</p> 
 <style>
-.teste {
+h1 {
   color:blue;
   font-size:46px !important;
 }
