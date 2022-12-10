@@ -20,6 +20,6 @@ int main() {
 <style>
 .teste {
   color:blue;
-  font-size:46px;
+  font-size:46px !important;
 }
 </style>
