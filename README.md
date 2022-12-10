@@ -4,6 +4,6 @@
 <ul>
  <li>
    <a href="./Languages/C/pages/01/first_program_hello_world/README.md">Hello world</a>
-   <a href="./Languages/C/pages/01/variables/README.md">Variables</a>
+   <p> <a href="./Languages/C/pages/01/variables/README.md">Variables</a> </p> 
  </li> 
 </ul 
