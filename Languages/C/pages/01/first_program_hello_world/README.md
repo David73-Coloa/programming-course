@@ -7,5 +7,5 @@
 int main() {
   return 0;
 }
-
 </code></pre>
+<p>In this case this return 0 , because 0 is a integer (has the type int).</p>
