@@ -18,7 +18,8 @@ int age = 5; // Here we declare the variable of type int (integer) called age th
 <code>#include &lt;stdio.h&gt;
 int age = 5;
 int main() {
-  printf("My age is:%d",age); // The output will be: My age is 5, and the %d keyword is for the int variables
+  printf("My age is:%d",age); // The output will be: My age is 5 
+  // The %d keyword is for the int variables
   return 0;
 }
 </code>
