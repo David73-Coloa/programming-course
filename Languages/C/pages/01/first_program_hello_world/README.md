@@ -2,6 +2,11 @@
 <h3>In this case, i will show the Hello world in C language</h3>
 <p>Defining the int main function, the main function always return a int value, and it is need by the compiler</p>
 <p>Also, do not forget to include the stdio.h library, which contains function which are needed to be compiler</p>
+<pre><code>tell application "Foo"
+    beep
+end tell
+</code></pre>
+`
 `
 #include <stdio.h> 
 int main() {
