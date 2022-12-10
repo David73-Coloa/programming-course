@@ -1,4 +1,4 @@
-<h1 style="color:blue;font-size:46px;">The first program  in programming languages usually is the Hello world program, which displays the message "Hello world" in the interpreter or in the compiler.</h1>
+<h1 class="teste">The first program  in programming languages usually is the Hello world program, which displays the message "Hello world" in the interpreter or in the compiler.</h1>
 <h2>In this case, i will show the Hello world in C language</h2>
 <p>Defining the int main function, the main function always return a int value, and it is need by the compiler</p>
 <p>Also, do not forget to include the stdio.h library, which contains function which are needed to be compiler</p>
@@ -17,3 +17,9 @@ int main() {
 }
 </code></pre>
 <p>Remember to use the ; after do something</p> 
+<style>
+.teste {
+  color:blue;
+  font-size:46px;
+}
+</style>
