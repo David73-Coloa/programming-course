@@ -2,8 +2,6 @@
 <p> Here begin the start of my course of Programming </p> 
 <p>Links to follow in order below</p>
 <ul>
- <li>
-   <a href="./Languages/C/pages/01/first_program_hello_world/README.md">Hello world</a>
-   <div> <a href="./Languages/C/pages/01/variables/README.md">Variables</a> </div> 
- </li> 
+ <li><a href="./Languages/C/pages/01/first_program_hello_world/README.md">Hello world</a></li>
+ <li> <a href="./Languages/C/pages/01/variables/README.md">Variables</a>  </li> 
 </ul 
