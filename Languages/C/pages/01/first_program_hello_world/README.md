@@ -3,6 +3,9 @@
 <p>Defining the int main function, the main function always return a int value, and it is need by the compiler</p>
 <p>Also, do not forget to include the stdio.h library, which contains function which are needed to be compiler</p>
 ```
-
+#include <stdio.h> 
+int main() {
+  return 0;
+}
 ```
 
