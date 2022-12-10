@@ -1,8 +1,8 @@
 <h1> Programming course </h1>
 <p> Here begin the start of my course of Programming </p> 
 <p>Links to follow in order below</p>
-<ul>:
+<ul>
  <li>
-   <a href="./Languages/C/pages/first_program_hello_world/README.md">Hello world</a>
+   <a href="./Languages/C/pages/01/first_program_hello_world/README.md">Hello world</a>
  </li> 
 </ul 
