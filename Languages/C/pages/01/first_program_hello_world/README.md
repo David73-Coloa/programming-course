@@ -9,3 +9,12 @@ int main() {
 }
 </code></pre>
 <p>In this case this return 0 , because 0 is a integer (has the type int).</p>
+<p>To print something, lets use the printf function, which prints something.</p>
+<pre><code>
+#include &lt;stdio.h&gt;
+int main() {
+  printf("Hello world");
+  return 0;
+}
+</code></pre>
+<p>Remember to use the ; after do something</p> 
