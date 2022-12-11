@@ -1,4 +1,4 @@
-<h1>The first program which we are gonna do is the Hello world program, which displays the message "Hello world" in the screen</h1>
+<h1 align="center">The first program which we are gonna do is the Hello world program, which displays the message "Hello world" in the screen</h1>
 <h2>In this case, i will show the Hello world in C language</h2>
 <p>Defining the int main function, the main function always return a int value, and it is need by the compiler</p>
 <p>Also, do not forget to include the stdio.h library, which contains function which are needed to be compiled</p>
