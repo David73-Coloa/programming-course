@@ -19,4 +19,4 @@ int main() {
 <p>Remember to use the ; after do something</p> 
 <a href="../variables/README.md">Go to next content</a>
 <p> <a href="../../../../../README.md">Go back to home</a> </p>
-<p align="center">End of the content.</p>
+<h3 align="center">End of the content.</h3>
