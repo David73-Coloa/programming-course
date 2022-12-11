@@ -1,4 +1,4 @@
-<h1 style="align:center;">Variables</h1>
+<h1 align="center">Variables</h1>
 <h2>A variable is a value that is assigned to a name/indentificator , we can acess the value using the variable name, just like  your name, its a variable, we can call you using your name, and its super important in programming languages.</h2>
 <p>To assign a variable to a value we only need to use the equal keyword: = </p>
 <p>Example:</p>
