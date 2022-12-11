@@ -17,7 +17,6 @@ int main() {
 }
 </code></pre>
 <p>Remember to use the ; after do something</p> 
-<div> 
 <p><a href="../variables/README.md">Go to next content</a></p>
-<p><a href="../../../../../README.md">Go back to home</a></p>
-</div>
+<div><a href="../../../../../README.md">Go back to home</a></div>
+
