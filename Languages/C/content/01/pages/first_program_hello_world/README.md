@@ -18,6 +18,5 @@ int main() {
 
 </code></pre>
 <p>Remember to use the ; after do something</p> 
-<a href="../variables/README.md">Go to next page </a>
 <p> <a href="../../../../../README.md">Go back to home</a> </p>
 
