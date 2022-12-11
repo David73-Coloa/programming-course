@@ -15,6 +15,7 @@ int main() {
   printf("Hello world");
   return 0;
 }
+
 </code></pre>
 <p>Remember to use the ; after do something</p> 
 <a href="../variables/README.md">Go to next page </a>
