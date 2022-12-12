@@ -38,5 +38,8 @@ int main() {
 <p>The output of the code above will be "The number is 6" if the variable number is equal to 6</p> 
 <p> If the variable is equal to 5, the output will be  "The number is 5"</p> 
 <p> But if number is not even 5 or 6, the output will be "The number is not 6 and the number is not 5 too" </p>
+<a href="../../../01/pages/variables/README.md">Go back to previous content</a> 
+<p> <a href="../../../03/pages/">Go to next content</a>  </p>
+<p> <a href="../../../../../../README.md">Go back to home</a> </p>
 
 
