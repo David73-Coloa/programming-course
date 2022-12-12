@@ -9,7 +9,7 @@
 <code>#include &lt;stdio.h&gt;
 int number = 5;
 int main() {
-  if (number == 5) { // Here we put the keyword if and compare, if the condition inside the if is true, this block of code happens, if not , the other is executed.
+  if (number == 5) { // Here we put the keyword if and compare, if the condition inside the if is true, this block of code happens, if not , the other is executed, the double equal signal means equality.
     printf("The number is 5.");
   }else {
     printf("Number is not 5.");
@@ -18,6 +18,23 @@ int main() {
 }
 </code>
 </pre>
-<p>Which will be the output of the code above?If you say "The number is 5", you are right, it will be the output.</p>
+<p>Which will be the output of the code above? If you say "The number is 5", you are right, it will be the output.</p>
+<h2>Also , we have the else if condition, that means: if none of the others conditions are true, and the condition of this block is true , this block of code happens </h2>
+<pre>
+<code>#include &lt;stdio.h&gt;
+int number = 6;
+int main() {
+  if (number == 5) {
+    printf("The number is 5.");
+  }else if (number == 6){ 
+    printf("The Number is 6.");
+  }else {
+    printf("The number is not 6 and the number is not 5 too");
+  }
+  return 0;
+}
+</code>
+</pre>
+<p>The output of the code above will be "The number is 6" if the variable number is equal to 6, if the variable is equal to 5, the output will be  "The number is 5", but if number is not even 5 or 6, the output will be "The number is not 6 and the number is not 5 too" </p>
 
 
