@@ -1,5 +1,7 @@
 printf "Type commit name:"
 read name
-git add .
+printf "Type path:"
+read path
+git add $path
 git commit -m $name
 git push

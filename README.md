@@ -3,5 +3,10 @@
 <p>Links to follow in order below</p>
 <ul>
  <li><a href="./Languages/C/content/01/pages/first_program_hello_world/README.md">Hello world</a></li>
- <li> <a href="./Languages/C/content/01/pages/variables/README.md">Variables</a>  </li> 
-</ul 
+ <li> <a href="./Languages/C/content/01/pages/variables/README.md">Variables</a>  </li>
+ <li> <a href="./Languages/C/content/02/pages/conditionals_if_else/">Conditionals if and else</a>  </li>
+ <li> <a href="./Languages/C/content/02/pages/conditional_elseif/">Conditional elseif</a>  </li>
+
+
+ 
+</ul>
