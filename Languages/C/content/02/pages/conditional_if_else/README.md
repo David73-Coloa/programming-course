@@ -18,4 +18,6 @@ int main() {
 }
 </code>
 </pre>
+<p>Which will be the output of the code above?If you say "The number is 5", you are right, it will be the output.</p>
+
 
