@@ -25,5 +25,5 @@ int main() {
 </code>
 </pre>
 <a href="../../../../../../README.md">Go back to previous page</a> 
-<p> <a href="../../../02/">Go to next content</a> </p>
+<a href="../../../02/">Go to next content</a> 
 <a href="../../../../../../README.md">Go back to home</a> 
