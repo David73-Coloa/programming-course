@@ -5,3 +5,14 @@
 
 <h2 align="center">The code of the conditional if and the conditional else in C</h2>
 <h4>Since you understood the example that i put, lets make a code of it.</h4>
+<pre>
+<code>#include &lt;stdio.h&gt;
+int age = 5;
+int main() {
+  printf("My age is:%d",age); // The output will be: My age is 5 
+  // The %d keyword is for the int variables
+  return 0;
+}
+</code>
+</pre>
+
