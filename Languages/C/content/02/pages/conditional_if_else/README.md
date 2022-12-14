@@ -42,6 +42,7 @@ int main() {
   <li> But if number is not even 5 or 6, the output will be "The number is not 6 and the number is not 5 too". </li>
 </ul>
 </li>
+</ul>
 <br></br> 
 
 <a href="../../../01/pages/variables/README.md">Go back to previous content</a> 
