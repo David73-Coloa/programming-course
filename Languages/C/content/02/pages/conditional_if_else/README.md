@@ -35,10 +35,15 @@ int main() {
 }
 </code>
 </pre>
+<ul>
+<li>Usado sempre que:<ul>
+<li>O motor terminar de realizar alguma movimentação e passar a realizar outra.</li>
+</ul>
+</li>
 - The output of the code above will be:
- - The number is 6" if the variable number is equal to 6
- - If the variable is equal to 5, the output will be  "The number is 5"
- - But if number is not even 5 or 6, the output will be "The number is not 6 and the number is not 5 too"
+   - The number is 6" if the variable number is equal to 6
+   - If the variable is equal to 5, the output will be  "The number is 5"
+   - But if number is not even 5 or 6, the output will be "The number is not 6 and the number is not 5 too"
 <a href="../../../01/pages/variables/README.md">Go back to previous content</a> 
 <p> <a href="../../../03/pages/repetition_structure_while/README.md">Go to next content</a>  </p>
 <p> <a href="../../../../../../README.md">Go back to home</a> </p>
