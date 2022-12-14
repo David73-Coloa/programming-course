@@ -35,7 +35,7 @@ int main() {
 }
 </code>
 </pre>
-<p>The output of the code above will be:<p>
+- The output of the code above will be:
  - The number is 6" if the variable number is equal to 6
  - If the variable is equal to 5, the output will be  "The number is 5"
  - But if number is not even 5 or 6, the output will be "The number is not 6 and the number is not 5 too"
