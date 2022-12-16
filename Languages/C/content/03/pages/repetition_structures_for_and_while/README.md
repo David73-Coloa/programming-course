@@ -32,7 +32,7 @@ return 0;
 }
 </code>
 </pre>
-<h4>Now lets imagine you need to stop this loop when the variable time is equal to 23 , you can use the break keyword, it will stop the loop in the place where you put the keyword break.</h4>
+<h3>Now lets imagine you need to stop this loop when the variable time is equal to 23 , you can use the break keyword, it will stop the loop in the place where you put the keyword break.</h3>
 <p>Example:</p>
 <pre>
 <code>#include &lt;stdio.h&gt;
@@ -51,7 +51,7 @@ return 0;
 </code>
 </pre>
 
-<h4>Now lets imagine that you need to skip a print of this loop above when the variable time is 25<h4> 
+<h3>Now lets imagine that you need to skip a print of this loop above when the variable time is 25<h3> 
 <p>Example:</p>
 <pre>
 <code>#include &lt;stdio.h&gt;
