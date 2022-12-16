@@ -24,11 +24,11 @@ int main() {
 <pre>
 <code>#include &lt;stdio.h&gt;
 int main() {
-for (int time=0;time<= 100;time++) { // for the variable int time = 0 ; while time<=100; time += 1 (time++)
-   printf("%d Time",time);
-}   
-printf("The loop ended here!"); // when the loop ends, the program prints it
-return 0;
+  for (int time=0;time<= 100;time++) { // for the variable int time = 0 ; while time<=100; time += 1 (time++)
+    printf("%d Time",time);
+  }   
+  printf("The loop ended here!"); // when the loop ends, the program prints it
+  return 0;
 }
 </code>
 </pre>
@@ -37,16 +37,16 @@ return 0;
 <pre>
 <code>#include &lt;stdio.h&gt;
 int main() {
-int time =0;
-while (time <= 100) { 
-  if (time == 23) {
-    break; // Stop the loop when time is equal to 23
+  int time =0;
+  while (time <= 100) { 
+    if (time == 23) {
+      break; // Stop the loop when time is equal to 23
+    }
+    printf("%d Time",time);
+    time = time + 1;  
   }
-  printf("%d Time",time);
-  time = time + 1;  
-}
-printf("The loop ended here!"); // when the loop ends, the program prints it
-return 0;
+  printf("The loop ended here!"); // when the loop ends in this case, when the variable time is equal 23, the program prints it
+  return 0;
 }
 </code>
 </pre>
