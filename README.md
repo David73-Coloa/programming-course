@@ -6,8 +6,6 @@
  <li> <a href="./Languages/C/content/01/pages/variables/README.md">Variables</a>  </li>
  <li> <a href="./Languages/C/content/02/pages/conditional_if_else/README.md">Conditional if and else</a>  </li>
  <li> <a href="./Languages/C/content/03/pages/repetition_structure_while/README.md">Repetition structure while</a>  </li>
- <li> <a href="./Languages/C/content/03/pages/repetition_structure_for/README.md">Repetition structure for</a>  </li>
-
 
 
 
