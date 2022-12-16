@@ -45,7 +45,7 @@ int main() {
 </ul>
 <br>
 <a href="../../../01/pages/variables/README.md">Go back to previous content</a> 
-<p> <a href="../../../03/pages/repetition_structure_while/README.md">Go to next content</a>  </p>
+<p> <a href="../../../03/pages/repetition_structures_for_and_while/README.md">Go to next content</a>  </p>
 <p> <a href="../../../../../../README.md">Go back to home</a> </p>
 
 
