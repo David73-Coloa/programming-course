@@ -3,7 +3,7 @@
 <p> 
 Functions are ways to repeat routines without having to write them again or to return values that use another value, which are in function of other variables.
 </p>
-<p>For example we have the sum function, it receives x and y as parameters and return the value of x + y, and lets suppose that yiu yse sum(5,10) , the return will be 15 right? we call 5 and 10 arguments of this function.</p>
+<p>For example we have the sum function, it receives x and y as parameters and return the value of x + y, and lets suppose that you use sum(5,10) , the return will be 15 right? we call 5 and 10 arguments of this function.</p>
 <p>We can represent it in c this way:</p>
 <pre>
 <code>#include &lt;stdio.h&gt;
