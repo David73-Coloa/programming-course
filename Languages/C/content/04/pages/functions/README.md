@@ -33,7 +33,9 @@ int main() {
 </code>
 </pre>
 
+<p> 
 <a href="../../../03/pages/repetition_structures_for_and_while/README.md">Go back to previous content</a> 
-<p> <a href="../../../../../../README.md">Go back to home</a> </p>
+<a href="../../../../../../README.md">Go back to home</a>
+</p>
 
 
