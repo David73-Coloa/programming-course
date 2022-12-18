@@ -18,7 +18,7 @@ int main() {
 }
 </code>
 </pre>
-<h2>We also have the void functions , that are the functions that dont will return anything, but will do some task. </h2>
+<h2>We also have the void functions , that are the functions that wont return anything, but will do some task. </h2>
 <p>Example:</p>
 <pre>
 <code>#include &lt;stdio.h&gt;
