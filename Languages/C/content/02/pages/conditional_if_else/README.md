@@ -1,7 +1,7 @@
 <h1 align="center">Condicionais if e else</h1>
 <h2>O que são condicionais? </h2> 
 <h3>Bem, digamos que você precisa escolher entre alguns números para um sorteio:</h3> 
-<div>Se o número sorteado for 5, a pessoa acaba ganhando, se não, a pessoa nao ganha nada. Isso é apenas um exemplo de uso de condicional.</div>
+<div>Se o número sorteado for 5, a pessoa acaba ganhando se o escolher, se escolher qualquer outro, a pessoa nao ganha nada. Isso é apenas um exemplo de uso de condicional.</div>
 <h2 align="center">O código da condicional if e da condicional else em C</h2>
 <h4>Já que você entendeu o exemplo que eu coloquei, vamos fazer um código para isso.</h4>
 <pre>
