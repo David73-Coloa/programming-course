@@ -5,7 +5,6 @@
 <pre> 
 <code>#include &lt;stdio.h&gt;
 // Aqui comentamos apenas uma linha, a palavra-chave // faz isso, mas para comentar duas ou mais linhas precisamos usar /* para iniciar e */ para encerrar o comentário.
-// Disse que explicarei com comentários às vezes.
 int age = 5; // Aqui declaramos a variável do tipo int (inteiro) chamada age, que tem o valor 5
 // A sintaxe é: primeiro o tipo da variável e depois é o nome/identificador da variável
 </code>
