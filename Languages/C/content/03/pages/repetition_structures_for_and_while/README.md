@@ -14,8 +14,8 @@ int main() {
    time = time + 1; 
 
 }
-printf("O loop terminou aqui!"); // quando o loop termina, o programa o imprime
-return 0;
+  printf("O loop terminou aqui!"); // quando o loop termina, o programa o imprime
+  return 0;
 }
 </code>
 </pre>
