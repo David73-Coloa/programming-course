@@ -20,7 +20,6 @@ int main() {
 <p>Exemplo:</p>
 <pre>
 <code>#include &lt;stdio.h&gt;
-// Supondo que x e y são inteiros
 void imprimeOlaMundo() { // A função não retorna nada, porque seu tipo é void
   printf("Olá mundo");
 }
