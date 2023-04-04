@@ -1,79 +1,76 @@
-<h1 align="center">Repetition structures For and While</h1>
-<h2>Lets say you need to printf 100 or more times something, what would you do? write 100 times the command printf? No, right? you would want write this more fast.</h2>
-<h2>To do it in c we have the keywords for and while</h2>
-<h3>First i will introduce the while keyword</h3>
+<h1 align="center">Estruturas de repetição For e While</h1>
+<h2>Vamos supor que você precise imprimir algo 100 ou mais vezes, o que você faria? Escreveria o comando printf 100 vezes? Não, certo? Você gostaria de escrever isso de forma mais rápida.</h2>
+<h2>Para fazer isso em c, temos as palavras-chave for e while</h2>
+<h3>Primeiro vou apresentar a palavra-chave while</h3>
 <pre>
 <code>#include &lt;stdio.h&gt;
 int main() {
   /*
-  The while loop occurs while the condition inside of the while is true, when it becomes false, the loop break 
+  O loop while ocorre enquanto a condição dentro do while for verdadeira, quando se torna falsa, o loop é interrompido
   */
   int time =0;
-  while (time <= 100) { // while the variable time is smaller or equal than the number 100, the variable is incremented in 1  
+  while (time <= 100) { // enquanto a variável time for menor ou igual ao número 100, a variável é incrementada em 1  
    printf("%d Time",time);
    time = time + 1; 
-   
-  }
-  printf("The loop ended here!"); // when the loop ends, the program prints it
-  return 0;
+
+}
+printf("O loop terminou aqui!"); // quando o loop termina, o programa o imprime
+return 0;
 }
 </code>
 </pre>
-<h3>The for keyword</h3>
-<p>Doing the same code above:</p>
+<h3>A palavra-chave for</h3>
+<p>Fazendo o mesmo código acima:</p>
 <pre>
 <code>#include &lt;stdio.h&gt;
 int main() {
-  for (int time=0;time<= 100;time++) { // for the variable int time = 0 ; while time<=100; time += 1 (time++)
+  for (int time=0;time<= 100;time++) { // para a variável int time = 0 ; enquanto time<=100; tempo += 1 (tempo++)
     printf("%d Time",time);
   }   
-  printf("The loop ended here!"); // when the loop ends, the program prints it
+  printf("O loop terminou aqui!"); // quando o loop termina, o programa o imprime
   return 0;
 }
 </code>
 </pre>
-<h3>Now lets imagine you need to stop this loop when the variable time is equal to 23 , you can use the break keyword, it will stop the loop in the place where you put the keyword break.</h3>
-<p>Example:</p>
+<h3>Agora vamos imaginar que você precisa parar este loop quando a variável time for igual a 23, você pode usar a palavra-chave break, ela vai parar o loop no local onde você colocar a palavra-chave break.</h3>
+<p>Exemplo:</p>
 <pre>
 <code>#include &lt;stdio.h&gt;
 int main() {
   int time =0;
   while (time <= 100) { 
     if (time == 23) {
-      break; // Stop the loop when time is equal to 23
+      break; // Pare o loop quando time for igual a 23
     }
     printf("%d Time",time);
     time = time + 1;  
   }
-  printf("The loop ended here!"); // when the loop ends in this case, when the variable time is equal 23, the program prints it
+  printf("O loop terminou aqui!"); // quando o loop termina neste caso, quando a variável time for igual a 23, o programa o imprime
   return 0;
 }
 </code>
 </pre>
-
-<h3>Now lets imagine that you need to skip a print of this loop above when the variable time is equal 25</h3> 
-<p>Example:</p>
+<h3>Agora vamos imaginar que você precisa pular uma impressão deste loop acima quando a variável time for igual a 25</h3> 
+<p>Exemplo:</p>
 <pre>
 <code>#include &lt;stdio.h&gt;
 int main() {
   int time =0;
   while (time <= 100) { 
     if (time == 25) {
-      continue; // Skip the execution of this loop when time is equal to 25, and skip to the part that time is equal to 26.
-      // And the rest of execution occurs normal.
+      continue; // Pula a execução deste loop quando time for igual a 25, e pula para a parte em que time é igual a 26.
+      // E o resto da execução ocorre normalmente.
     }
     printf("%d Time",time);
     time = time + 1;  
   }
-  printf("The loop ended here!"); // when the loop ends, the program prints it
+  printf("O loop terminou aqui!"); // quando o loop termina, o programa o imprime
   return 0;
 }
 </pre>
 </code>
-
 <br>
-<a href="../../../02/pages/conditional_if_else/README.md">Go back to previous content</a> 
-<p> <a href="../../../04/pages/functions/README.md">Go to next content</a>  </p>
-<p> <a href="../../../../../../README.md">Go back to home</a> </p>
-
+<a href="../../../02/pages/conditional_if_else/README.md">Voltar para o conteúdo anterior</a> 
+<p> <a href="../../../04/pages/functions/README.md">Ir para o próximo conteúdo</a>  </p>
+<p> <a href="../../../../../../README.md">Voltar para a página inicial</a> </p>
 

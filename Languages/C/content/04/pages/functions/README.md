@@ -1,39 +1,36 @@
-<h1 align="center">Functions</h1>
-<h2>Well, what are functions?</h2>
-<p> 
-Functions are ways to repeat routines without having to write them again or to return values that use another value, which are in function of other variables.
-</p>
-<p>For example we have the sum function, it receives x and y as parameters and return the value of x + y, and lets suppose that you use sum(5,10) , the return will be 15 right? we call 5 and 10 arguments of this function.</p>
-<p>We can represent it in c this way:</p>
+<h1 align="center">Funções</h1>
+<h2>Bem, o que são funções?</h2>
+<p>As funções são formas de repetir rotinas sem precisar escrevê-las novamente ou retornar valores que usam outro valor, que estão em função de outras variáveis.</p>
+<p>Por exemplo, temos a função de soma, ela recebe x e y como parâmetros e retorna o valor de x + y, e suponhamos que você use sum(5,10), o retorno será 15 certo? Chamamos 5 e 10 de argumentos desta função.</p>
+<p>Podemos representá-la em c desta forma:</p>
 <pre>
 <code>#include &lt;stdio.h&gt;
-// Assuming that x and y are integer
-int sum(int x, int y) { // The function always return the type that it was declared, in this case int.
+// Supondo que x e y são inteiros
+int soma(int x, int y) { // A função sempre retorna o tipo que foi declarado, neste caso int.
   return x + y;
 }
 int main() {
-  int result = sum(5,10); // We create and use the variable result to receive the return of the sum function with argument 5 and 10
-  printf("Result:%d",result); // Output: Result:15
+  int resultado = soma(5,10); // Criamos e usamos a variável resultado para receber o retorno da função soma com argumentos 5 e 10
+  printf("Resultado:%d",resultado); // Saída: Resultado:15
   return 0;
 }
 </code>
 </pre>
-<h2>We also have the void functions , that are the functions that wont return anything, but will do some task. </h2>
-<p>Example:</p>
+<h2>Também temos as funções void, que são funções que não retornam nada, mas farão alguma tarefa.</h2>
+<p>Exemplo:</p>
 <pre>
 <code>#include &lt;stdio.h&gt;
-// Assuming that x and y are integer
-void printHelloWorld() { // The function dont return anything, because their type is void
-  printf("Hello world");
+// Supondo que x e y são inteiros
+void imprimeOlaMundo() { // A função não retorna nada, porque seu tipo é void
+  printf("Olá mundo");
 }
 int main() {
-  printHelloWorld(); // We call the printHelloWorld function, that will print "Hello world" and dont return anything , and also dont receive any argument or parameter
+  imprimeOlaMundo(); // Chamamos a função imprimeOlaMundo, que imprimirá "Olá mundo" e não retornará nada, e também não receberá nenhum argumento ou parâmetro.
   return 0;
 }
 </code>
 </pre>
 
-<a href="../../../03/pages/repetition_structures_for_and_while/README.md">Go back to previous content</a> 
-<p> <a href="../../../../../../README.md">Go back to home</a> </p>
-<p>The end (until 16/12/2022), someday i can write more something here. </p>
-
+<a href="../../../03/pages/repetition_structures_for_and_while/README.md">Voltar ao conteúdo anterior</a>
+<p> <a href="../../../../../../README.md">Voltar para o início</a> </p>
+<p>O fim (até 03/04/2023), algum dia posso escrever algo mais aqui.</p>
